@@ -1,6 +1,8 @@
 # crime-data-mining
 Grabbing crime data from numerous websites surrounding a zip code or ip lat and long.
+
 # To Do
+
 - [ ] Parse and disply HTML from mylocalcrime.com
 - [ ] Format HTML data
 - [ ] Add CodeIgnitor
@@ -12,7 +14,9 @@ Grabbing crime data from numerous websites surrounding a zip code or ip lat and 
 - [ ] Display exsisting data into view
 - [ ] Find other data mining locations that display HTML
 - [ ] Add these other location to MVC
+
 # Optional To Do's 
+
 - [ ] Get a list of all zipcodes by state
 - [ ] Get all zipcodes by region?
 - [ ] Add new mongo db for different zipcode regions and states
