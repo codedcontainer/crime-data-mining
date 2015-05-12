@@ -4,6 +4,7 @@ Grabbing crime data from numerous websites surrounding a zip code or ip lat and 
 # To Do
 
 - [ ] Parse and disply HTML from mylocalcrime.com
+- [ ] Grab the data using CURL and cookie file
 - [ ] Format HTML data
 - [ ] Add CodeIgnitor
 - [ ] Added parse and display to controller
