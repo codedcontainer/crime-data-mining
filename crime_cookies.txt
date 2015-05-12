@@ -1,0 +1,10 @@
+# Cookies for domains related to mylocalcrime.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://www.mylocalcrime.com/#39.955199%2C%20-86.11117
+#
+.mylocalcrime.com	TRUE	/	FALSE	1478461143	__qca	P0-286683654-1431125754274
+www.mylocalcrime.com	FALSE	/	FALSE	0	address	39.955199, -86.11117
+.mylocalcrime.com	TRUE	/	FALSE	1494197755	__utma	177557561.1673171658.1431125755.1431125755.1431125755.1
+.mylocalcrime.com	TRUE	/	FALSE	1431127555	__utmb	177557561.2.9.1431125755
+.mylocalcrime.com	TRUE	/	FALSE	0	__utmc	177557561
+.mylocalcrime.com	TRUE	/	FALSE	1446893755	__utmz	177557561.1431125755.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
